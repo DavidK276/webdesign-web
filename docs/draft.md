@@ -4,11 +4,11 @@ An non-profit organization that specializes in education and popularization of S
 
 # Goals
 
-The goal of this project is to improve an existing system by redesigning the user interface to provide a better user experience and add new features to expand on the educational goals of the stakeholder. In particular, the user interface for submitting feedback to the competition participants should be completely reworked.
+The goal of this project is to improve an existing system by redesigning the user interface to provide a better user experience and add new features to expand on the educational goals of the stakeholder. In addition, the goal is to rework the user interface for submitting feedback to the competition participants.
 
 # Success measures
 
-The success of the project will be determined by measuring the increase in competition signups as well as measuring the organic traffic to the website. 
+The success of the project will be determined by measuring the increase in competition signups as well as measuring the organic traffic to the website. We want to achieve a 5% increase of the number of constestants. 
 
 # Competition analysis
 
