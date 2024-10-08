@@ -66,7 +66,7 @@ For this project, we require zero monetary budget but expect to spend approx. n 
 
 # Team and responsibilities
 
-- Filip Sršeň = team leader
-- Adam Zahradník = gardener
-- David Krchňavý
-- Mohammad Jamal Miraki
+- Filip Sršeň = team leader, wireframes
+- Adam Zahradník = testing,  
+- David Krchňavý = personas
+- Mohammad Jamal Miraki = development lead
