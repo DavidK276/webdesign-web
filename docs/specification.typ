@@ -109,21 +109,21 @@ Round 1: *(10th Nov)*
 - design and prototype of the contestant's solution upload scenario (submitting solution, viewing feedback and scores, show current competition problems)
 
 Round 1.5: *(1st Dec)*
-- data model of the system
-- information section of the site (viewing and managing)
-- browsing archive
-- Trojsten ID login
+- solution uploading
+- browsing current tasks and archive
 
 Round 2: *(15th Dec)*
-- organizer's grading interface
-- competition results
+- information section of the site (viewing and managing)
+- Trojsten ID login
 
 Round 2.5: *(1st Jan)*
-- news and announcements
+- organizer's grading interface
+- competition results
 - management of competition problems
 
 Round 3: *(18th Jan)*
 - email notifications
+- news and announcements
 - remaining improvements
 
 = Budget
@@ -139,7 +139,7 @@ Work on the application is estimated in man hours:
 
 = Team and responsibilities
 
-- David Krchňavý = personas
+- David Krchňavý = personas, front-end
 - Mohammad Jamal Miraki = development lead
-- Filip Sršeň = team leader, wireframes
-- Adam Zahradník = testing,
+- Filip Sršeň = team leader, wireframes, testing videos
+- Adam Zahradník = testing moderator, back-end
