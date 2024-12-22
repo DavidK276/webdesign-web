@@ -117,11 +117,19 @@ Round 2: *(15th Dec)*
 - Trojsten ID login
 
 Round 2.5: *(1st Jan)*
+- improvements from 2nd round of testing:
+  - allow submit of multiple files
+  - hide submit CTA when not needed (+ on desktop)
+  - add an better way to "go back"
+  - make problem list and problem sidebar consistent
+  - show problem status more explicitly than changing its background color
 - organizer's grading interface
 - competition results
 - management of competition problems
 
 Round 3: *(18th Jan)*
+- last round of submit testing
+- test grading interface
 - email notifications
 - news and announcements
 - remaining improvements
